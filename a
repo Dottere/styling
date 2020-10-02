@@ -1,0 +1,43 @@
+<html>
+
+<head>
+
+<style>
+
+body
+{
+margin: 0%;
+}
+#green
+{
+background-color:green;
+width: 100%;
+height:30%;
+}
+#red
+{
+background-color:red;
+height:70%;
+width:70%;
+float:left;
+}
+#blue
+{
+background-color:blue;
+height:70%;
+width:30%;
+float:left;
+}
+</style>
+
+</head>
+
+
+
+<body style=#red{background-color}>
+<div id="green"></div>
+<div id="red"></div>
+<div id="blue"></div>
+</body>
+
+</html>
